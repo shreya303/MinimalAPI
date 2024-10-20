@@ -15,6 +15,7 @@ Minimal APIs provide a simple, high-performance framework for building APIs. All
 Here is a brief overview of the project structure:
 
 MinimalAPI/
+
 ├── Application/              # Application logic and services
 ├── Core/                     # Core business models and domain logic
 ├── Infrastructure/           # Data access and database setup
