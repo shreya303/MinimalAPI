@@ -17,16 +17,14 @@ Here is a brief overview of the project structure:
 MinimalAPI/
 
 ├── Application/              # Application logic and services
+
 ├── Core/                     # Core business models and domain logic
+
 ├── Infrastructure/           # Data access and database setup
-│   └── Data/                 # Database context and repositories
+
 ├── Presentation/             # API endpoints and configurations
-│   └── Endpoints/            # Minimal API endpoint definitions
-├── Program.cs                # Application entry point
-└── appsettings.json          # Configuration file
 
 **Prerequisites**
 Before running this project, ensure that the following are installed:
 -> .NET 8 SDK
 -> Visual Studio 2022 or VS Code
--> SQL Server or any other database you are using.
